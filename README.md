@@ -1,4 +1,4 @@
 implicitsInScala
 ================
 
-How Implicits work in Scala
+This project explains how implicits work in Scala.
